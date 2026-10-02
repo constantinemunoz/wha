@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "draw-your-font": {
+      "source": "danilo-znamerovszkij/draw-your-font",
+      "sourceType": "github",
+      "skillPath": "skills/draw-your-font/SKILL.md",
+      "computedHash": "d9e77549bb177b7075aa40978eed9521202df26d26838892368734e8b4f192dd"
+    }
+  }
+}
